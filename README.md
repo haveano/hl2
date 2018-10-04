@@ -12,6 +12,6 @@ Umiejętności botnetu:</br>
 -bot zbierał podstawowe dane z hosta i wysyłał je na serwer PHP dostępny w chmurze;</br>
 -bot dodawał siebie do harmonogramu w systemie i uruchamiał w tle;</br>
 -polecenia, które bot umiał przyjąć z C&C to m.in:</br>
-	-sciągnąć plik na swojego hosta i ewentualnie uruchomić go;</br>
-	-wykonać polecenie w cmd i ewentualnie wysłać output na serwer POST PHP;</br>
-	-wysłać plik na serwer POST;</br>
+	--sciągnąć plik na swojego hosta i ewentualnie uruchomić go;</br>
+	--wykonać polecenie w cmd i ewentualnie wysłać output na serwer POST PHP;</br>
+	--wysłać plik na serwer POST;</br>
