@@ -2,8 +2,7 @@
 HelloLord2 - botnet in C#
 
 
-Umiejętności botnetu:
-<ul>
+Umiejętności botnetu:<ul>
 -C&C botnetu było na Google Cloud Platform,</br>
 -napisanie serwera POST w PHP na potrzeby botnetu;</br>
 -sterowanie botnetem za pomocą pliku txt umieszczonego w chmurze,</br>
