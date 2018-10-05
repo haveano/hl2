@@ -1,0 +1,15 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: default.php
+- url: /post\.php
+  script: helloworld.php
+- url: /getpublicurl\.php
+  script: getpublicurl.php
+- url: /(.*\.(zip|tgz|exe))$
+  static_files: \1
+  upload: (.*\.(zip|tgz|exe))$
+  application_readable: true
+
